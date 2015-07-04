@@ -3,8 +3,8 @@ title: Clean Blog
 header-img: img/home-bg.jpg
 email: bruce.mcintyre@gmail.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/"
-url: "http://bruskiza.github.io"
+# baseurl: ""
+# url: "http://bruskiza.github.io"
 twitter_username: bruskiza
 github_username:  bruskiza
 facebook_username:  bruskiza
