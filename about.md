@@ -32,5 +32,5 @@ I have struggled for most of my career to find out what I actually am, and still
 ||RedHat/CentOS| {% include glyphicon-ok.html %} |
 |Internet technologies| | {% include glyphicon-ok.html%} |
 ||DNS| {% include glyphicon-ok.html | 
-||Web Hosting|{% include glyphicon-ok.html|
+||Web Hosting|{% include glyphicon-ok.html %}|
 
