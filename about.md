@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "About"
-description: "This is what I do."
-header-img: "img/Johannesburg_Skyline.jpg"
+title: About
+description: This is what I do.
+"header-img": img/Johannesburg_Skyline.jpg
+published: true
 ---
+
 
 # Background
 
@@ -29,5 +31,6 @@ I have struggled for most of my career to find out what I actually am, and still
 ||Debian/Ubuntu| {% include glyphicon-ok.html %} |
 ||RedHat/CentOS| {% include glyphicon-ok.html %} |
 |Internet technologies| | {% include glyphicon-ok.html%} |
-
+||DNS| {% include glyphicon-ok.html | 
+||Web Hosting|{% include glyphicon-ok.html|
 
