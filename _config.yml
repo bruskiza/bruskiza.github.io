@@ -1,18 +1,19 @@
 # Site settings
 title: Bruce McIntyre
-header-img: img/home-bg.jpg
 email: bruce.mcintyre@gmail.com
-description: "Ramblings from a child of the internet."
-# baseurl: ""
-# url: "http://bruskiza.github.io"
-twitter_username: bruskiza
-github_username:  bruskiza
+description: "Ramblings from a child of the internet"
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username:   bruskiza
+github_username:    bruskiza
 facebook_username:  bruskiza
+header-img: img/home-bg.jpg
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
 permalink: pretty
+gems: [jekyll-paginate]
 paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+paginate_path: "page:num"
 
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

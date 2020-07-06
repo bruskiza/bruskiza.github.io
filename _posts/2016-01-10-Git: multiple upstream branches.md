@@ -15,3 +15,13 @@ Tell your git repository to push HEAD to the remote origin.
 ```
 git config remote.origin.push HEAD
 ```
+
+For convenience, I wrap this in a bash utility script:
+
+```
+#!/bin/bash
+
+echo "setting 'git config remote.origin.push HEAD'... ✅️"
+git config remote.origin.push HEAD
+
+```
